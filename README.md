@@ -6,7 +6,7 @@
 (https://github.com/williamsartijose/ETEC-Construtores-This-Sobrecarga-Encapsulamento-Java-06)
 
 
-## DESAFIO: Bar OO
+## DESAFIO: Combate
 
 Em um jogo de combate, cada jogador joga com um campeão. Cada campeão possui um nome, uma 
 quantidade de ataque, armadura e vida. O combate entre dois campeões é organizado em turnos, de modo 
